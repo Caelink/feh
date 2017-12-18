@@ -8,5 +8,5 @@ setup(name='feh',
       author='Caelin Jackson-King',
       author_email='caelink+feh@gmail.com',
       url='https://github.com/Caelink/feh',
-      packages=[],
+      packages=['feh'],
      )
