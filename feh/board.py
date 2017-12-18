@@ -32,5 +32,3 @@ class Board():
     def __pprint__(self):
         print('\n'.join('|'.join(map(lambda x: x.movement_type), self.spaces)))
 
-
-
